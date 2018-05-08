@@ -1,0 +1,5 @@
+F:\Demo\Samples\WebSocketClient\bin\Debug\WebSocketClient.exe
+F:\Demo\Samples\WebSocketClient\bin\Debug\WebSocketClient.pdb
+F:\Demo\Samples\WebSocketClient\obj\Debug\WebSocketClient.exe
+F:\Demo\Samples\WebSocketClient\obj\Debug\WebSocketClient.pdb
+F:\Demo\Samples\WebSocketClient\obj\Debug\WebSocketClient.csprojResolveAssemblyReference.cache

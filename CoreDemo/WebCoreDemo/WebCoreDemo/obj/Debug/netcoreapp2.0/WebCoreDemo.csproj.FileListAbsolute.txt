@@ -1,0 +1,10 @@
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\bin\Debug\netcoreapp2.0\WebCoreDemo.deps.json
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\bin\Debug\netcoreapp2.0\WebCoreDemo.runtimeconfig.json
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\bin\Debug\netcoreapp2.0\WebCoreDemo.runtimeconfig.dev.json
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\bin\Debug\netcoreapp2.0\WebCoreDemo.dll
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\bin\Debug\netcoreapp2.0\WebCoreDemo.pdb
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\obj\Debug\netcoreapp2.0\WebCoreDemo.csproj.CoreCompileInputs.cache
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\obj\Debug\netcoreapp2.0\WebCoreDemo.AssemblyInfoInputs.cache
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\obj\Debug\netcoreapp2.0\WebCoreDemo.AssemblyInfo.cs
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\obj\Debug\netcoreapp2.0\WebCoreDemo.dll
+F:\Demo\CoreDemo\WebCoreDemo\WebCoreDemo\obj\Debug\netcoreapp2.0\WebCoreDemo.pdb

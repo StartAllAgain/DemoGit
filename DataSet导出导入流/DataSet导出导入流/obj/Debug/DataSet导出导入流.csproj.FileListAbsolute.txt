@@ -1,0 +1,10 @@
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\bin\Debug\DataSet导出导入流.exe
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\bin\Debug\DataSet导出导入流.pdb
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.csprojResolveAssemblyReference.cache
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.Form1.resources
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.Properties.Resources.resources
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.csproj.GenerateResource.Cache
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.exe
+F:\FlowD\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.pdb
+F:\Demo\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.exe
+F:\Demo\DataSet导出导入流\DataSet导出导入流\obj\Debug\DataSet导出导入流.pdb

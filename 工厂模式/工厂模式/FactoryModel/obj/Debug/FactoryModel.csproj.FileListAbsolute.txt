@@ -1,0 +1,7 @@
+F:\Demo\框架\工厂模式\FactoryModel\bin\Debug\FactoryModel.exe
+F:\Demo\框架\工厂模式\FactoryModel\bin\Debug\FactoryModel.pdb
+F:\Demo\框架\工厂模式\FactoryModel\obj\Debug\FactoryModel.exe
+F:\Demo\框架\工厂模式\FactoryModel\obj\Debug\FactoryModel.pdb
+F:\Demo\框架\工厂模式\FactoryModel\obj\Debug\FactoryModel.csprojResolveAssemblyReference.cache
+F:\Demo\框架\工厂模式\FactoryModel\bin\Debug\AbstractFoatory.dll
+F:\Demo\框架\工厂模式\FactoryModel\bin\Debug\AbstractFoatory.pdb

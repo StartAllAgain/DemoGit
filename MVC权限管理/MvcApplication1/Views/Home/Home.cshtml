@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+<script src="~/Jquery/jquery-1.8.3.min.js"></script>
+<h2>Home</h2>
+<input type="button" id="but" />
+<div id="div1">数据：</div>
+<a href="~/Home/Edit">退出登录</a>
+<script type="text/javascript">window.onbeforeunload = function () { if (!canLeavePage()) return ('确认离开当前页面吗？未保存的数据将会丢失！'); }</script>
+<script type="text/javascript">
+    function UpdateDiv(result) {
+
+        $("#div1").html(result.ID + result.Name);
+
+    }
+
+    $("#but").click(
+        function () {
+            $.ajax({
+                type: "POST",
+                url: "/Home/Index2",
+                dataType: "jsonp",
+                jsonpCallback: "UpdateDiv"
+            });
+        })
+</script>

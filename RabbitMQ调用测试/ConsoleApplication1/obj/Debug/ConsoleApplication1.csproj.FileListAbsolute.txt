@@ -1,0 +1,5 @@
+F:\Demo\RabbitMQ调用测试\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Demo\RabbitMQ调用测试\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Demo\RabbitMQ调用测试\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Demo\RabbitMQ调用测试\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Demo\RabbitMQ调用测试\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+F:\FlowD\ServiceVersion1.0\FrameManager\bin\Debug\FrameManager.dll
+F:\FlowD\ServiceVersion1.0\FrameManager\bin\Debug\FrameManager.pdb
+F:\FlowD\ServiceVersion1.0\FrameManager\obj\Debug\FrameManager.csprojResolveAssemblyReference.cache
+F:\FlowD\ServiceVersion1.0\FrameManager\obj\Debug\FrameManager.dll
+F:\FlowD\ServiceVersion1.0\FrameManager\obj\Debug\FrameManager.pdb

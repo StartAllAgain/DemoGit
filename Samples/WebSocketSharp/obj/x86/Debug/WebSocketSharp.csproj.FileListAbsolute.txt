@@ -1,0 +1,15 @@
+E:\Samples\WebSocketSharp\bin\Debug\ReportPrinter.exe.config
+E:\Samples\WebSocketSharp\bin\Debug\ReportPrinter.exe
+E:\Samples\WebSocketSharp\bin\Debug\ReportPrinter.pdb
+E:\Samples\WebSocketSharp\bin\Debug\Newtonsoft.Json.dll
+E:\Samples\WebSocketSharp\bin\Debug\websocket-sharp.dll
+E:\Samples\WebSocketSharp\obj\x86\Debug\WebSocketSharp.csprojResolveAssemblyReference.cache
+E:\Samples\WebSocketSharp\obj\x86\Debug\ReportPrinter.exe
+E:\Samples\WebSocketSharp\obj\x86\Debug\ReportPrinter.pdb
+F:\Demo\Samples\WebSocketSharp\bin\Debug\ReportPrinter.exe.config
+F:\Demo\Samples\WebSocketSharp\bin\Debug\ReportPrinter.exe
+F:\Demo\Samples\WebSocketSharp\bin\Debug\ReportPrinter.pdb
+F:\Demo\Samples\WebSocketSharp\bin\Debug\Newtonsoft.Json.dll
+F:\Demo\Samples\WebSocketSharp\obj\x86\Debug\ReportPrinter.exe
+F:\Demo\Samples\WebSocketSharp\obj\x86\Debug\ReportPrinter.pdb
+F:\Demo\Samples\WebSocketSharp\obj\x86\Debug\WebSocketSharp.csprojResolveAssemblyReference.cache

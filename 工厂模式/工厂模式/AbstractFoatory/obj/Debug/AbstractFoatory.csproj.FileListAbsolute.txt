@@ -1,0 +1,5 @@
+F:\Demo\框架\工厂模式\AbstractFoatory\bin\Debug\AbstractFoatory.dll
+F:\Demo\框架\工厂模式\AbstractFoatory\bin\Debug\AbstractFoatory.pdb
+F:\Demo\框架\工厂模式\AbstractFoatory\obj\Debug\AbstractFoatory.dll
+F:\Demo\框架\工厂模式\AbstractFoatory\obj\Debug\AbstractFoatory.pdb
+F:\Demo\框架\工厂模式\AbstractFoatory\obj\Debug\AbstractFoatory.csprojResolveAssemblyReference.cache

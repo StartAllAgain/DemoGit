@@ -1,0 +1,4 @@
+F:\Demo\MVC4Demo\设计模式\bin\Debug\设计模式.dll
+F:\Demo\MVC4Demo\设计模式\bin\Debug\设计模式.pdb
+F:\Demo\MVC4Demo\设计模式\obj\Debug\设计模式.dll
+F:\Demo\MVC4Demo\设计模式\obj\Debug\设计模式.pdb

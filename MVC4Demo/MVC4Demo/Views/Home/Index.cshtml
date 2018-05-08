@@ -1,0 +1,65 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@using MVC4Demo.Controllers;
+@using System.Linq;
+
+<script src="~/Jquery/jquery-1.8.3.min.js"></script>
+<h2>Index</h2>
+<input type="password" />
+<input type="button" id="Commit" />
+
+<div class="row">
+    <div class="col-md-6">
+        @foreach (var item in Model.SportProducts)
+        {
+            <p>@item</p>
+        }
+    </div>
+
+    <div class="col-md-6">
+        @foreach (var item in Model.BookProducts)
+        {
+            <p>@item</p>
+        }
+    </div>
+
+</div>
+
+<div class="row">
+
+    <div class="col-md-6">
+        @foreach (var item in Model.FoodProducts)
+        {
+            <p>@item</p>
+        }
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    $("#Commit").click(
+        function () {
+            $.ajax({
+                url: "/Home/resultJson",
+                type: "Post",
+                dataType: "json",
+                data: "",
+                success: function (data) {
+                    //var aToStr = JSON.stringify(data);
+                  //  var data = { "name": "tom", "sex": "男", "age": "24" }
+                   // var bToObj = JSON.parse(data);
+                   
+                    var cToObj = eval("(" + data + ")");
+                    for (var d in cToObj) {
+                        alert(cToObj[d]);
+                    }
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(errorThrown.toString());
+                }
+
+            })
+        }
+        );
+</script>

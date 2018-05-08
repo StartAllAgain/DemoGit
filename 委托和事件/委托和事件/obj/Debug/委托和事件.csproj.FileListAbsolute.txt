@@ -1,0 +1,6 @@
+F:\Demo\委托和事件\委托和事件\bin\Debug\委托和事件.exe
+F:\Demo\委托和事件\委托和事件\bin\Debug\委托和事件.pdb
+F:\Demo\委托和事件\委托和事件\obj\Debug\委托和事件.exe
+F:\Demo\委托和事件\委托和事件\obj\Debug\委托和事件.pdb
+F:\Demo\委托和事件\委托和事件\bin\Debug\委托和事件.exe.config
+F:\Demo\委托和事件\委托和事件\obj\Debug\委托和事件.csprojResolveAssemblyReference.cache

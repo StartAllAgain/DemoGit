@@ -1,0 +1,9 @@
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\bin\Debug\ExcelOrOrcale.exe
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\bin\Debug\ExcelOrOrcale.pdb
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.Form1.resources
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.Properties.Resources.resources
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.csproj.GenerateResource.Cache
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.exe
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.pdb
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\bin\Debug\ExcelOrOrcale.exe.config
+F:\Demo\ExcelOrOrcale\ExcelOrOrcale\obj\Debug\ExcelOrOrcale.csprojResolveAssemblyReference.cache

@@ -1,0 +1,319 @@
+﻿@{
+    ViewBag.Title = "Mother";
+}
+
+<style>
+    body {
+        font-family: "微软雅黑";
+        background-color: #fff;
+        width: 100%;
+    }
+
+    .nav-scroll-bg {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        min-width: 980px;
+        height: 70px;
+        background: #000;
+        opacity: 0.6;
+        z-index: 998;
+    }
+
+    .navBg {
+        width: 100%;
+        min-width: 980px;
+        height: 69px;
+        background: url(/images/v2/navBg.png) repeat-x #000;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    td, li, select, input, textarea, div {
+        font-size: 12px;
+    }
+
+    body, ul, ol, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, form, fieldset, img, div {
+        margin: 0;
+        padding: 0;
+        border: 0;
+    }
+
+    .navText {
+        width: 980px;
+        margin: 0 auto;
+        padding-top: 8px;
+        overflow: hidden;
+    }
+
+        .navText ul.nav li {
+            float: left;
+            margin: 0 20px;
+            color: #fff;
+            line-height: 53px;
+        }
+
+            .navText ul.nav li a {
+                color: #fff;
+                font-size: 16px;
+            }
+
+    a:link, a:visited, a:hover, a:active {
+        color: #000;
+        text-decoration: none;
+    }
+
+    ul, dl, li {
+        list-style-type: none;
+    }
+
+    .navText ul.nav li.last {
+        float: right;
+        font-size: 12px;
+        margin-right: 20px;
+    }
+
+        .navText ul.nav li.last a {
+            font-size: 12px;
+        }
+
+    .navText ul.nav li .add_cat {
+        font-size: 12px;
+        background: url(/images/login_my.png) no-repeat -80px 0;
+        padding-left: 20px;
+        margin-left: 20px;
+    }
+
+    .navText ul.nav li span {
+        margin: 0 15px;
+        color: #fff;
+    }
+
+    .login_footer {
+        width: 100%;
+        margin-top: 0px;
+        background: #333333;
+    }
+
+    .footerBox {
+        width: 980px;
+        margin: 0 auto;
+    }
+
+    .footerLeft {
+        float: left;
+        display: inline-block;
+        margin-bottom: 18px;
+    }
+
+    .footerLeft {
+        width: 615px;
+        overflow: hidden;
+    }
+
+    .aboutUs {
+        display: block;
+        padding: 20px 0 12px 0;
+    }
+
+    .footerLeft a {
+        color: #fff;
+    }
+
+    .Support {
+        display: block;
+        margin: 20px 0 12px 0;
+    }
+
+    .footerLeft {
+        float: left;
+        display: inline-block;
+        margin-bottom: 18px;
+    }
+
+    .footerRight {
+        float: right;
+        width: 285px;
+    }
+
+    .login_footer {
+        width: 100%;
+        background: #333333;
+    }
+
+    .footerBox {
+        width: 980px;
+        margin: 0 auto;
+        font-size: 12px;
+        font-weight: normal;
+    }
+
+    .infor {
+        clear: both;
+        width: 980px;
+        overflow: hidden;
+        margin: 0 auto;
+    }
+
+        .infor h1 {
+            display: block;
+            text-align: center;
+            color: #ffffff;
+            font: 12px '微软雅黑';
+            margin: 7px 0 3px 0;
+        }
+
+        .infor p {
+            display: block;
+            text-align: center;
+            color: #ffffff;
+            font: 12px '微软雅黑';
+            margin: 7px 0 15px 0;
+        }
+
+    .aboutUs {
+        display: block;
+        padding: 20px 0 12px 0;
+    }
+
+    ul, li {
+        list-style-type: none;
+    }
+
+    .link li {
+        float: left;
+    }
+
+    .footerLeft a {
+        color: #fff;
+    }
+
+    .footerLeft li span {
+        color: #fff;
+    }
+
+    .link li span {
+        margin: 0 25px;
+        font-size: 12px;
+    }
+
+    .footerRight span {
+        clear: both;
+        text-align: right;
+        font: 39px '微软雅黑';
+        display: block;
+        padding-top: 22px;
+        color: #ffffff;
+    }
+
+    .footerRight .icon ul li {
+        float: right;
+        margin-left: 20px;
+    }
+
+    .footerRight .icon .wxtips {
+        width: 145px;
+        height: 150px;
+        background: url(/images/wx_qrcode.png) no-repeat;
+        position: absolute;
+        right: 260px;
+        top:118px;
+    }
+
+    .wxtips {
+        border: 1px solid #ffffff;
+    }
+</style>
+<body>
+    <div class="nav-scroll-bg">
+        <div class="navBg">
+            <div class="navText">
+                <ul class="nav">
+                    <li class="logo">
+                        <a href="/"><img src="/images/logo.png"></a>
+                    </li>
+                    <!-- <li><a href="/" class="city">广州</a></li>-->
+                    <li><a href="#" class="navSomething">首页</a></li>
+                    <li><a href="#" class="navSomething">产品</a></li>
+                    <li><a href="#" class="navSomething">查询报告</a></li>
+                    <li><a href="#" class="navSomething">护士注册</a></li>
+                    <li><a href="http://public.gjk365.com" class="navSomething" target="_blank">开放平台</a></li>
+
+                    <li class="last">
+                        <a href="#" class="login">登录 </a><span>|</span><a href="#" class="register">注册</a><span>|</span>
+                        <a href="#" class="add_cat">购物车</a>
+                    </li>
+                </ul>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div style="border:1px solid red;width:100%;height:200px;margin-top:70px;">@RenderBody()</div>
+
+    <div class="login_footer">
+        <div class="footerBox">
+            <div class="footerLeft">
+                <span class="aboutUs"><a href="/about">关于我们</a></span>
+                <div class="link">
+                    <ul>
+
+                        <li><a href="#">品牌简介</a> <span>|</span></li>
+                        <li><a href="#">新闻中心</a> <span>|</span></li>
+                        <li><a href="#">联系我们</a> <span>|</span></li>
+                        <li><a href="#">友情链接</a></li>
+                    </ul>
+                </div>
+                <div class="clearfix"></div>
+                <span class="Support"><a href="javascript:;">服务与支持</a></span>
+                <div class="link">
+                    <ul>
+                        <li><a href="#">软件下载</a> <span>|</span></li>
+                        <li><a href="#">常见问题</a> <span>|</span></li>
+                        <li><a href="#">用户协议</a> <span>|</span></li>
+                        <li><a href="#">隐私权保护声明</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="footerRight">
+                <!-- <div class="icon">
+                    <a href="http://weibo.com/u/5608285732" target="_blank"><img src="/images/v2/xinlang.png" class="imgFirst"></a>
+                    <img src="/images/v2/weibo.png">
+                </div>-->
+                <!--二维码修改-->
+                <div class="icon">
+                    <ul>
+                        <!-- <li><a href="http://weibo.com/u/5608285732" target="_blank"><img alt="新浪微博" src="/images/v2/xinlang.png" class="imgFirst"></a></li>-->
+                        <li>
+                            <img alt="微信二维码" src="/images/weibo.png" class="wx">
+                            <div class="wxtips" style="display:none;"></div>
+                        </li>
+                    </ul>
+                </div>
+                <!--二维码修改 结束-->
+                <span>400-062-9801</span>
+            </div>
+            <div class="infor">
+                <h1>京ICP备12345678号-1</h1>
+                <p>Copyright @@ 2016 某某某科技有限公司版权所有</p>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="~/JS/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+    //底部微信二维码
+    $(document).ready(function () {
+        $(".wx").mouseover(function () {
+            $(".wxtips").fadeIn();
+        }).mouseout(function () {
+            $(".wxtips").fadeOut();
+        })
+
+
+    });
+</script>
